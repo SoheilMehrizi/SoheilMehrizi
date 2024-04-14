@@ -15,7 +15,7 @@ I'm very pleased that you're visiting my profile.
 
 Unfortunately, your visit has been in the middle of my account's reorganization procedure,
 
-Hence you can access my open-source projects after ``March 19th, 2024``.
+Hence you can access my open-source projects after ``September 1st, 2024``.
 
 Please come visit all my new and old projects later :)
 

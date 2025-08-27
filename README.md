@@ -77,7 +77,8 @@
 - Coursera – Introduction to Machine Learning  
 - Coursera – Deep Learning Specialization  
 - Coursera – Calculus  
-- Coursera – Linear Algebra  
+- Coursera – Linear Algebra
+- Books - Hands on Machine Learning
 - **Data Analyst Bootcamp – Hamrah Academy**  
 
 ---
@@ -99,7 +100,7 @@
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soheilmehrizi/)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:mehrizisoheil@gmail.com)  
 
 ---
 ⭐️ From [Soheil Mehrizi](https://github.com/soheilmehrizi)

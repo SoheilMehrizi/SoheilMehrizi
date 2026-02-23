@@ -9,12 +9,21 @@
 ---
 
 ## 🏢 Experience
+- **AI Product Analyst at TOSAN Solutions- Fintech (2 months)**
 
 - **Data Scientist – Logistics Industry (1 year)**  
   - Built a **driver behavior classification system** using ML models.  
   - Designed and deployed **map-matching web services** for GPS trajectory recovery.  
   - Developed **data summarization & anomaly detection pipelines** for GPS noise and structured patterns.  
   - Converted research papers and benchmarks into **production-ready services**.  
+
+- **Co-founder at DuckLearn Academy (9 months)**
+
+- **Startup Camper at DigiNext (4 months)**
+
+- **Back End Development Freelancer(2 years)**
+
+- **CS50x Iran technical & Sccientific Supervisor**
 
 - **Independent Projects – Data Science & Analytics (8 months)**  
   - **Telemarketing Campaign Decision Support System**  
